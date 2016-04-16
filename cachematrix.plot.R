@@ -32,7 +32,7 @@ timeSolve <- function(x, solveFn) {
         }
     })
     
-    averageInMicroseconds <- (uncachedTime["elapsed"] * 1000000) / time.iterations
+    averageInMicroseconds <- (uncachedTime["elapsed"] * 1000000.0) / time.iterations
 }
 
 result = data.frame(size = matrix.sizes)
