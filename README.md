@@ -2,7 +2,7 @@ Hi, fellow students!
 
 Thanks for taking the time to assess my work. Hope you're enjoying the course!
 
-If you are interested, there is a plot of how much faster here caching makes things [(click for more detail)](cachedVsUncachedPlotThumb.png)
+If you are interested, there is a plot of how much faster here caching makes things [(click for more detail)](cachedVsUncachedPlot.png)
 
 ![Cached vs Uncached Performance](cachedVsUncachedPlotThumb.png "Cached vs Uncached Performance")
 
